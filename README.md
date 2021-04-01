@@ -1,7 +1,6 @@
 # bilibili
 B站移动端开发
 
-https://www.bilibili.com/video/BV1vT4y137So
 
 
 
@@ -12,9 +11,9 @@ vue + vuex + vue-router + ES6/7 + less + flex + vant
 
 项目运行
 
-cd bilibili
+cd my-project
 
-npm install 或 yarn(推荐)
+npm install 
 
 npm run serve
 
